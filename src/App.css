@@ -1,6 +1,12 @@
 .App {
   text-align: center;
 }
+.upparent{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
 
 .App-logo {
   height: 40vmin;
